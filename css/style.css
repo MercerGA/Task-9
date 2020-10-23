@@ -39,6 +39,11 @@
     margin-top: 212px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.img {
+    width: 1550px;
 }
 /* Section */
 .form-wraper {
