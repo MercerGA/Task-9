@@ -12,19 +12,19 @@
 }
 .logo   {
     display: flex;
-    margin: 26px 565px 26px 140px;
+    margin: 26px 640px 26px 0px;
 }
 .navigation {
     display: flex;
     flex-flow: row wrap;
-    margin: 31.5px 141.5px 31.5px 0px;
+    margin: 31.5px 10px 31.5px 0px;
 }
 .nav {
     display: flex;
 }
 .navtext {
     font-size: 20px;
-    padding: 0px 53px 0px 0px;
+    padding: 0px 40px 0px 0px;
     color: white;
     transition: 0.5s;
     -webkit-transition: 0.5s;
